@@ -1,16 +1,19 @@
-### Hi there 👋
+# 👋 hi, i'm joyce!
 
-<!--
-**thejoycekung/thejoycekung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ fast facts:
 
-Here are some ideas to get you started:
+ℹ https://pronoun.is/she  
+🎓 Computer Science @ University of Waterloo (2021)  
+👩🏻‍💻 Software Engineering Intern @ Bank of America Merrill Lynch (Fall 2020)  
+🖋 poet
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 currently [tinkering](https://github.com/thejoycekung/tinkerings) with:
+
+- kubernetes the hard way
+- flask to try building simple webapps
+
+### 🌐 find me online:
+
+🐤 [@commitsbyjoyce](https://twitter.com/commitsbyjoyce)  
+👥 [thejoycekung](https://www.linkedin.com/in/thejoycekung/) on LinkedIn  
+📨 thejoycekung [at] gmail [dot] com
