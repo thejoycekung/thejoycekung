@@ -2,8 +2,8 @@ import requests, os, re
 from xml.etree import ElementTree
 
 def get_book_info():
-    api_key = "s4ypsbHjRTjFInfacswA"
-    shelf_xml = requests.get('https://www.goodreads.com/review/list.xml',
+    api_key = os.getenv('GOODREADS_KEY')
+    shelf_xml = requests.get('https://www.goodreads.com/review/list.json',
                     data = {'v': 2,
                             'key': api_key,
                             'id': '53120380-joyce',
