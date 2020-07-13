@@ -3,7 +3,7 @@ from xml.etree import ElementTree
 
 def get_book_info():
     api_key = os.getenv('GOODREADS_KEY')
-    shelf_xml = requests.get('https://www.goodreads.com/review/list.json',
+    shelf_xml = requests.get('https://www.goodreads.com/review/list.xml',
                     data = {'v': 2,
                             'key': api_key,
                             'id': '53120380-joyce',
