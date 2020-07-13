@@ -8,6 +8,7 @@ def get_book_info():
                             'key': api_key,
                             'id': '53120380-joyce',
                             'shelf': 'currently-reading'})
+    print("Goodreads response:", shelf_xml.status_code)
     tree = ElementTree.fromstring(shelf_xml.content)
     '''
     with ElementTree we can only access things by numerical index:
