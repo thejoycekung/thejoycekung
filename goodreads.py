@@ -2,7 +2,7 @@ import requests, os, re
 from xml.etree import ElementTree
 
 def get_book_info():
-    api_key = os.getenv('GOODREADS_KEY')
+    api_key = "s4ypsbHjRTjFInfacswA"
     shelf_xml = requests.get('https://www.goodreads.com/review/list.xml',
                     data = {'v': 2,
                             'key': api_key,
@@ -21,7 +21,7 @@ def get_book_info():
     for now, since i'm only ever reading 1 book at a time, this is not a problem
     '''
     reviews = tree[2]
-    if reviews.text.strip() == "":
+    if len(reviews) < 1:
         book_title = "... nothing! maybe I need to start something new ..."
         book_author = None
     else:
@@ -38,7 +38,7 @@ def modify_bio(text):
     return
 
 if __name__ == "__main__":
-    book_title, book_author = get_book_info();
+    book_title, book_author = get_book_info()
     if book_author == None:
         new_reading_text = book_title
     else:
