@@ -10,7 +10,7 @@
 ### 📅 currently:
 
 🛠 [tinkering](https://github.com/thejoycekung/tinkerings) with: kubernetes the hard way  
-📖 [reading](https://www.goodreads.com/user/show/53120380-joyce): book by book
+📖 [reading](https://www.goodreads.com/user/show/53120380-joyce): ... nothing! maybe I need to start something new ...
 
 ### 🌐 find me online:
 
