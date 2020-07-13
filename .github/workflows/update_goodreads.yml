@@ -1,0 +1,17 @@
+name: update_goodreads
+
+# I start my weekly book every Monday - run this cron job at 5PM ET on Mondays (just in case I haven't had a chance to update Goodreads with my latest choice yet)
+on:
+  schedule:
+  - cron: "0 21 * * mon"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+    - name: Update README.md
+      env:
+        GOODREADS_KEY: ${{ secrets.GOODREADS_KEY }}
+      run: python3 goodreads.py
