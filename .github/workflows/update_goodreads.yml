@@ -2,7 +2,7 @@ name: update_goodreads
 
 # I start my weekly book every Monday - run this cron job at 5PM ET on Mondays (just in case I haven't had a chance to update Goodreads with my latest choice yet)
 on:
-  workflow-dispatch:
+  workflow_dispatch:
   schedule:
   - cron: "0 21 * * mon"
 
