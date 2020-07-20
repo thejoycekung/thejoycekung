@@ -11,7 +11,7 @@
 ### 📅 currently:
 
 🛠 [tinkering](https://github.com/thejoycekung/tinkerings) with: making flask apps / hosting them using containers  
-📖 [reading](https://www.goodreads.com/user/show/53120380-joyce): How to Talk About Books You Haven't Read by Pierre Bayard
+📖 [reading](https://www.goodreads.com/user/show/53120380-joyce): The Raven Boys by Maggie Stiefvater
 
 ### 🌐 find me online:
 
