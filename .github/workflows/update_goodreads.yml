@@ -1,4 +1,4 @@
-name: update_goodreads
+name: Update Goodreads
 
 # I start my weekly book every Monday - run this cron job at 5PM ET on Mondays (just in case I haven't had a chance to update Goodreads with my latest choice yet)
 on:
