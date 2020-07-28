@@ -3,7 +3,7 @@
 ### poetry
 
 "this is diagonalization" [forthcoming] - [sinθ mag](https://sinetheta.net/); Issue No. 16 "VERTEX 角" (2020)  
-"august" [forthcoming] - [perhappened mag](https://www.perhappened.com/); Issue No. 3 "HEATWAVE"  
+"just peachy" [forthcoming] - [perhappened mag](https://www.perhappened.com/); Issue No. 3 "HEATWAVE" (2020)  
 "restless" - [*fws: a journal of literature and art](https://formidablewoman.org/issue-no-1-vol-2-spring-2020); Issue No. 1, Vol. 2 (2020)  
 "they call it the end of an era" - [Student Voices](https://mystudentvoices.com/they-call-it-the-end-of-an-era-e4d9d598a483) (2016)
 
