@@ -11,7 +11,7 @@
 ### 📅 currently:
 
 🛠 [tinkering](https://github.com/thejoycekung/tinkerings) with: making flask apps / hosting them using containers  
-📖 [reading](https://www.goodreads.com/user/show/53120380-joyce): The Dream Thieves by Maggie Stiefvater
+📖 [reading](https://www.goodreads.com/user/show/53120380-joyce): The Secret History by Donna Tartt
 
 ### 🌐 find me online:
 
