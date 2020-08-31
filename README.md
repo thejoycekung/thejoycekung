@@ -11,7 +11,7 @@
 ### 📅 currently:
 
 🛠 [tinkering](https://github.com/thejoycekung/tinkerings) with: making flask apps / hosting them using containers  
-📖 [reading](https://www.goodreads.com/user/show/53120380-joyce): Lolly Willowes by Sylvia Townsend Warner
+📖 [reading](https://www.goodreads.com/user/show/53120380-joyce): A Room of One's Own by Virginia Woolf
 
 ### 🌐 find me online:
 
