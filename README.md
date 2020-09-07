@@ -2,7 +2,7 @@
 
 ### ✨ fast facts:
 
-ℹ https://pronoun.is/she  
+ℹ My https://pronoun.is/she/her  
 🔍 [Looking for new grad positions](https://thejoycekung.github.io/posts/2020-09-05-new-grad/), preferably in SRE/Infra  
 🎓 Computer Science @ University of Waterloo (2021)  
 👩🏻‍💻 Software Engineering Intern @ Bank of America Merrill Lynch (Fall 2020)  
