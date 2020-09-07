@@ -3,7 +3,7 @@
 ### ✨ fast facts:
 
 ℹ https://pronoun.is/she  
-🔍 Looking for new grad positions, preferably in SRE/Infra  
+🔍 [Looking for new grad positions](https://thejoycekung.github.io/posts/2020-09-05-new-grad/), preferably in SRE/Infra  
 🎓 Computer Science @ University of Waterloo (2021)  
 👩🏻‍💻 Software Engineering Intern @ Bank of America Merrill Lynch (Fall 2020)  
 🖋 [writer (creative non-fiction and poetry)](https://thejoycekung.github.io/writings)
