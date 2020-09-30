@@ -18,4 +18,4 @@
 🐤 [@commitsbyjoyce](https://twitter.com/commitsbyjoyce)  
 👥 [thejoycekung](https://www.linkedin.com/in/thejoycekung/) on LinkedIn  
 📝 [misc blog](https://joyce.fyi)  
-📨 thejoycekung [at] gmail [dot] com
+📨 hi [at] joyce [dot] fyi
