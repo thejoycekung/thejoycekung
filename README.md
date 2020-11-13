@@ -3,7 +3,6 @@
 ### ✨ fast facts:
 
 ℹ My https://pronoun.is/she/her  
-🔍 [Looking for new grad positions](https://joyce.fyi/posts/new-grad-jobs/), preferably in SRE/Infra  
 🎓 Computer Science @ University of Waterloo (2021)  
 👩🏻‍💻 CI Signal Shadow for Kubernetes 1.20  
 🖋 [writer (creative non-fiction and poetry)](https://joyce.fyi/writings)
