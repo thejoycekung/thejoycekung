@@ -10,7 +10,7 @@
 ### 📅 currently:
 
 🛠 [tinkering](https://github.com/thejoycekung/tinkerings) with: [Linux Upskill Challenge](https://github.com/snori74/linuxupskillchallenge), [Linux from Scratch](http://www.linuxfromscratch.org/), [How to GraphQL](https://www.howtographql.com/)  
-📖 [reading](https://www.goodreads.com/user/show/53120380-joyce): On Earth We're Briefly Gorgeous by Ocean Vuong
+📖 [reading](https://www.goodreads.com/user/show/53120380-joyce): The Inheritance Games by Jennifer Lynn Barnes
 
 ### 🌐 find me online:
 
