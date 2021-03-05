@@ -2,19 +2,19 @@
 
 ### ✨ fast facts:
 
-ℹ My https://pronoun.is/she/her  
-🎓 Computer Science @ University of Waterloo (2021)  
-👩🏻‍💻 CI Signal Shadow for Kubernetes 1.20  
-🖋 [writer (creative non-fiction and poetry)](https://joyce.fyi/writings)
+ℹ [they/she pronouns](https://pronoun.is/they/:or/she)  
+🖋 [occasional writer](https://joyce.fyi/writings)  
+⌨ [fan of clicky switches](https://twitter.com/commitsbyjoyce/status/1356070282478428163)
 
 ### 📅 currently:
 
-🛠 [tinkering](https://github.com/thejoycekung/tinkerings) with: [Linux Upskill Challenge](https://github.com/snori74/linuxupskillchallenge), [Linux from Scratch](http://www.linuxfromscratch.org/), [How to GraphQL](https://www.howtographql.com/)  
-📖 [reading](https://www.goodreads.com/user/show/53120380-joyce): ... nothing! maybe I need to start something new ...
+📖 reading [something](https://beta.readng.co/user/joyce), probably  
+🎓 computer science @ university of waterloo (2021)  
+👩🏻‍💻 ci signal lead for kubernetes 1.21  
 
 ### 🌐 find me online:
 
 🐤 [@commitsbyjoyce](https://twitter.com/commitsbyjoyce)  
-👥 [thejoycekung](https://www.linkedin.com/in/thejoycekung/) on LinkedIn  
-📝 [misc blog](https://joyce.fyi)  
+👥 [thejoycekung](https://www.linkedin.com/in/thejoycekung/) on linkedin  
+📝 [website](https://joyce.fyi)  
 📨 hi [at] joyce [dot] fyi
