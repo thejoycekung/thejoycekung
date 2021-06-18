@@ -10,5 +10,5 @@
 
 🐤 [@commitsbyjoyce](https://twitter.com/commitsbyjoyce) on twitter  
 👥 [thejoycekung](https://www.linkedin.com/in/thejoycekung/) on linkedin  
-🔀 [joyce](https://www.polywork.com/joyce) on polywork
+🔀 [joyce](https://www.polywork.com/joyce) on polywork  
 📨 hi [at] joyce [dot] fyi
