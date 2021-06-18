@@ -3,7 +3,7 @@
 ### ✨ fast facts:
 
 ℹ [they/she pronouns](https://pronoun.is/they/:or/she)  
-🖋 [occasional writer](https://joyce.fyi/writings)
+🖋 [occasional writer](https://joyce.fyi/writings)  
 📖 probably [reading something](https://beta.readng.co/user/joyce)
 
 ### 🌐 find me online:
