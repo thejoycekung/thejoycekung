@@ -2,7 +2,7 @@
 
 ### ✨ fast facts:
 
-ℹ [they/she pronouns](https://pronoun.is/they/:or/she)  
+ℹ [they/them pronouns](https://pronoun.is/they/)  
 🖋 [occasional writer](https://joyce.fyi/writings)  
-📖 probably [reading something](https://oku.club/user/joyce)
+📖 probably [reading something](https://literal.club/j_k)
 
